@@ -18,17 +18,11 @@ Python is a high-level, interpreted programming language known for its simplicit
 <details>
   <summary>Python is used in a wide range of applications, including:</summary>
 - Web Development: Frameworks like Django and Flask.
-  
-- Data Analysis: Libraries like pandas, NumPy, and Matplotlib.
-- 
+- Data Analysis: Libraries like pandas, NumPy, and Matplotlib. 
 - Machine Learning and AI: Libraries like TensorFlow, Keras, and Scikit-learn.
-- 
 - Automation and Scripting: Automating repetitive tasks and writing scripts.
-- 
 - Scientific Computing: Tools like SciPy and SymPy.
-- 
 - Software Development: Building software applications.
-  
 - Game Development: Libraries like Pygame.
 </details>
 
