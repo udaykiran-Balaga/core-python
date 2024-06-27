@@ -13,6 +13,16 @@ Python is a high-level, interpreted programming language known for its simplicit
 - Dutch programmer Guido van Rossum led the development of Python. 
 - The name "Python" was inspired by the British comedy series "Monty Python’s Flying Circus" broadcast on BBC.
 
+Python was developed by incorporating features from various other programming languages:
+
+- C: Procedural Oriented Programming
+
+- C++: Object-Oriented Programming
+
+- Modula: Modular Programming
+
+- Perl: Scripting Language
+
 ## PYTHON APPLICATIONS
 
 <details>
