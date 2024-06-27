@@ -5,10 +5,13 @@
 ## WHAT IS PYTHON?
 Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used for web development, data analysis, artificial intelligence, scientific computing, and more. Python's syntax is designed to be easy to read and write, making it a great choice for beginners and experienced programmers alike.
 
-2. Python History
-Python was created by Guido van Rossum and first released in 1991. It was designed to be an easy-to-read language that emphasizes code readability. Python's name was inspired by the British comedy group Monty Python. Over the years, Python has evolved through many versions, adding features and improvements while maintaining its commitment to simplicity and readability.
-
-3. Python Applications
+## HISTORY OF PYTHON
+Python, a programming language, was conceived in the 1980s and its development began in 1989. 
+The first version of Python was released in 1991. It was developed at Centrum Wiskunde & Informatica (CWI), the national research institute for mathematics and computer science in the Netherlands. 
+Python was created in the C programming language to address the shortcomings of the ABC language. 
+Dutch programmer Guido van Rossum led the development of Python. 
+The name "Python" was inspired by the British comedy series "Monty Python’s Flying Circus" broadcast on BBC.
+## PYTHON APPLICATIONS
 Python is used in a wide range of applications, including:
 
 Web Development: Frameworks like Django and Flask.
