@@ -33,15 +33,30 @@ Python is a high-level, interpreted programming language known for its simplicit
 - Game Development: Libraries like Pygame.
 </details>
 
-4. Python Features
-Simple and Easy to Learn: Clear syntax and readability.
-Interpreted Language: Executes code line by line, making debugging easier.
-Object-Oriented: Supports object-oriented programming (OOP) concepts.
-High-Level Language: Abstracts complex details from the user.
-Extensive Standard Library: Rich library of modules and functions for various tasks.
-Cross-Platform: Works on Windows, macOS, Linux, and other platforms.
-Dynamic Typing: Variable types are determined at runtime.
-Support for Multiple Programming Paradigms: Including procedural, object-oriented, and functional programming.
+## PYTHON FEATURES
+<details>
+  <summary>
+    Features of python programming language
+  </summary>
+  
+- Simple and Easy to Learn: Clear syntax and readability.
+
+- Interpreted Language: Executes code line by line, making debugging easier.
+
+- Object-Oriented: Supports object-oriented programming (OOP) concepts.
+
+- High-Level Language: Abstracts complex details from the user.
+
+- Extensive Standard Library: Rich library of modules and functions for various tasks.
+
+- Cross-Platform: Works on Windows, macOS, Linux, and other platforms.
+
+- Dynamic Typing: Variable types are determined at runtime.
+
+- Support for Multiple Programming Paradigms: Including procedural, object-oriented, and functional programming.
+  
+</details>
+
 5. Python Software and Versions
 Python 2.x: Older version, no longer actively maintained.
 Python 3.x: Current version, with many improvements over Python 2.x.
