@@ -76,8 +76,9 @@ Python 2.x: Older version, no longer actively maintained.
 Python 3.x: Current version, with many improvements over Python 2.x.
 Popular IDEs and Editors: PyCharm, VS Code, Jupyter Notebook, IDLE, Spyder.
 6. Working with Python
-  /details>
-
+  </details>
+  
+<details>
 <summary>To start working with Python</summary>
 
 - Install Python: Download and install from the official website 
@@ -88,3 +89,4 @@ Popular IDEs and Editors: PyCharm, VS Code, Jupyter Notebook, IDLE, Spyder.
 - Write Python Code: Create a new Python file with a .py extension.
   
 - Run Python Code: Execute the code using the Python interpreter.
+</details>
