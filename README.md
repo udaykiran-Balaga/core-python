@@ -68,6 +68,7 @@ Python is a high-level, interpreted programming language known for its simplicit
 - Support for Multiple Programming Paradigms: Including procedural, object-oriented, and functional programming.
   
 </details>
+
 ## Python Software and Versions
 <details>
 <summary>versions</summary>
