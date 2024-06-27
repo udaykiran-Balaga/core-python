@@ -13,7 +13,8 @@ Python is a high-level, interpreted programming language known for its simplicit
 - Dutch programmer Guido van Rossum led the development of Python. 
 - The name "Python" was inspired by the British comedy series "Monty Python’s Flying Circus" broadcast on BBC.
 
-Python was developed by incorporating features from various other programming languages:
+<details>
+  <summary>Python was developed by incorporating features from various other programming languages:</summary>
 
 - C: Procedural Oriented Programming
 
@@ -22,6 +23,7 @@ Python was developed by incorporating features from various other programming la
 - Modula: Modular Programming
 
 - Perl: Scripting Language
+</details>
 
 ## PYTHON APPLICATIONS
 
@@ -67,14 +69,22 @@ Python was developed by incorporating features from various other programming la
   
 </details>
 
-5. Python Software and Versions
+<details>
+## Python Software and Versions
+<summary>versions</summary>
 Python 2.x: Older version, no longer actively maintained.
 Python 3.x: Current version, with many improvements over Python 2.x.
 Popular IDEs and Editors: PyCharm, VS Code, Jupyter Notebook, IDLE, Spyder.
 6. Working with Python
-To start working with Python:
+  /details>
 
-Install Python: Download and install from the official website (https://www.python.org/).
-Choose an IDE or Text Editor: Use an integrated development environment (IDE) like PyCharm or a text editor like VS Code.
-Write Python Code: Create a new Python file with a .py extension.
-Run Python Code: Execute the code using the Python interpreter.
+<summary>To start working with Python</summary>
+
+- Install Python: Download and install from the official website 
+(https://www.python.org/).
+
+- Choose an IDE or Text Editor: Use an integrated development environment (IDE) like PyCharm or a text editor like VS Code.
+  
+- Write Python Code: Create a new Python file with a .py extension.
+  
+- Run Python Code: Execute the code using the Python interpreter.
