@@ -12,7 +12,6 @@
 # Python Working Modes
 <details>
       <summary>Python developers can work with Python in two primary modes</summary>
-      <details>
             - Interactive Mode
             - Scripting/Programming Mode
       </details>
