@@ -29,9 +29,11 @@ Character set defines encoding and decoding standards
 - UNICODE
       
 </details>
-            2. Tokens of Python
-            3. Input/Output statements
-      </summary>
+<details>
+<summary>2. Tokens of Python</summary>
+</details>
+<details>
+      <summary>3. Input/Output statements</summary>
 </details>
 
 
