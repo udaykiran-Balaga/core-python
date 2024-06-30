@@ -13,6 +13,7 @@
 <details>
       <summary>Python developers can work with Python in two primary modes</summary>
       - Interactive Mode
+
       - Scripting/Programming Mode
       </details>
 </details>
