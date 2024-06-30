@@ -42,9 +42,8 @@ Character set defines encoding and decoding standards
 </details>
 <details>
       <summary>3. Input/Output statements</summary>
-</details>
-<details>
-      <summary>input and output (I/O) statements are used to read data from the user and display data to the user.</summary>
+input and output (I/O) statements are used to read data from the user and display data to the user.
+
 1. Input Statement
 
 2. Output Statement
