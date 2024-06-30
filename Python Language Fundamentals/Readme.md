@@ -19,3 +19,19 @@
 </details>
 </details>
 
+# Pthon Language Fundamentals
+<details>
+      <summary>
+<details>
+                 <summary>1. Character Set of Python</summary>
+Character set defines encoding and decoding standards
+- ASCII
+- UNICODE
+      
+</details>
+            2. Tokens of Python
+            3. Input/Output statements
+      </summary>
+</details>
+
+
