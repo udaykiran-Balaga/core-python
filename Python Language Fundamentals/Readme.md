@@ -31,6 +31,7 @@ Character set defines encoding and decoding standards
 </details>
 <details>
 <summary>2. Tokens of Python</summary>
+
 1. Keywords
 
 2. Identifiers
