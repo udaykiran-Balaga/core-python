@@ -27,6 +27,7 @@ This function is used to perform following conversions.
 `string to int`
 
 ## syntax
+
 ```
 syntax: int([value/variable])
 ```
@@ -69,7 +70,6 @@ This function is used to perform the following conversions
 Syntax1: complex(real = 0.0,imag = 0.0)
 
 Syntax2: complex(complex)
-
 ```
 
 # bool()
@@ -104,5 +104,4 @@ This function is used to perform the following conversions
 
 ```
 Syntax:str([value])
-
 ```
