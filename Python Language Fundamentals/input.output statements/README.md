@@ -69,3 +69,26 @@ print(values,sep.end,file,flush)
 `4. file`
 
 `5. flush`
+
+### example
+
+```
+a=open("file1","w")
+print(10,20,30,file=a,flush=True)
+print(100,200,300,file=a,flush=True)
+print(1,2,3,4,5,sep=",",end=':',file=a,flush=True)
+
+```
+
+`## input()`
+
+- It predefined function exists in built-ins module. It is a default imported by any python program.
+
+- input() is a standard input function which is used to input/read values from keyboard.
+
+### syntax
+
+```
+syntax: input([prompt])
+
+```
