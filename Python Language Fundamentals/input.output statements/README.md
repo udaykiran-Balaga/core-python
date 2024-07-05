@@ -80,7 +80,7 @@ print(1,2,3,4,5,sep=",",end=':',file=a,flush=True)
 
 ```
 
-`## input()`
+`input()`
 
 - It predefined function exists in built-ins module. It is a default imported by any python program.
 
