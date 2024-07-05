@@ -21,7 +21,7 @@ These operators are used to perform arithmetic operations.
   </tr>
   <tr>
     <td>/</td>
-    <tr>Float Division</tr>
+    <td>Float Division</td>
   </tr>
   <tr>
     <td>//</td>
