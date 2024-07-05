@@ -26,11 +26,25 @@ This function is used to perform following conversions.
 
 `string to int`
 
-#syntax:
-
 
 ```
 syntax: int([value/variable])
 ```
 
+# float() function:
+
+This function is used to perform the following conversiions
+
+`1. float to float`
+
+`2. int to float`
+
+`3. bool to float`
+
+`4. string to float`
+
+```
+syntax:flaot([value/variable/expression])
+
+```
   
