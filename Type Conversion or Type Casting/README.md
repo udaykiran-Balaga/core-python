@@ -31,7 +31,7 @@ python defines type conversion functions to directly convert one data type to an
 `string to int`
 </details>
 
-## syntax
+### syntax
 
 ```
 syntax: int([value/variable])
@@ -52,7 +52,7 @@ syntax: int([value/variable])
 
 </details>
 
-## syntax
+### syntax
 
 ```
 syntax:flaot([value/variable/expression])
@@ -76,7 +76,7 @@ syntax:flaot([value/variable/expression])
 
 </details>
 
-## syntax
+### syntax
 
 ```
 Syntax1: complex(real = 0.0,imag = 0.0)
@@ -118,7 +118,7 @@ Syntax2: complex(complex)
 
 </details>
 
-## syntax
+### syntax
 
 ```
 Syntax:str([value])
