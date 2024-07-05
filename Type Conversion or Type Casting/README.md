@@ -26,11 +26,11 @@ This function is used to perform following conversions.
 
 `string to int`
 
-#synatx:
+#syntax:
 
 
 ```
-   int([value/variable])
+syntax: int([value/variable])
 ```
 
   
