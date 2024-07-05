@@ -26,7 +26,7 @@ This function is used to perform following conversions.
 
 `string to int`
 
-
+## syntax
 ```
 syntax: int([value/variable])
 ```
@@ -51,5 +51,58 @@ syntax:flaot([value/variable/expression])
 # complex function:
 
 This function is used to perform the following conversions
-  
 
+`1.	Complex to complex`
+
+`2.	Int to complex`
+
+`3.	Float to complex`
+
+`4.	Bool to complex`
+
+`5.	String to complex`
+
+
+## syntax
+
+```
+Syntax1: complex(real = 0.0,imag = 0.0)
+
+Syntax2: complex(complex)
+
+```
+
+# bool()
+
+This function is used to perform the following conversions
+
+`1.	Bool to bool`
+
+`2.	Int to bool`
+
+`3.	Float to bool`
+
+`4.	Complex to bool`
+
+`5.	Str to bool`
+
+# str()
+
+This function is used to perform the following conversions
+
+`1.	Str to str`
+
+`2.	Int to str`
+
+`3.	Float to str`
+
+`4.	Complex to str`
+
+`5.	Bool to string`
+
+## syntax
+
+```
+Syntax:str([value])
+
+```
