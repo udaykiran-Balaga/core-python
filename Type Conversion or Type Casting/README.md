@@ -2,7 +2,8 @@
 
 python defines type conversion functions to directly convert one data type to another which is useful in day-to-day competitive programming.
 
-This type conversion is done using type conversion functions provided by python built-ins module.
+<details>
+  <summary>This type conversion is done using type conversion functions provided by python built-ins module.</summary>
 
 `1. int()`
 
@@ -13,10 +14,12 @@ This type conversion is done using type conversion functions provided by python 
 `4. bool()`
 
 `5. str()`
+</details>
 
 # int() function:
 
-This function is used to perform following conversions.
+<details>
+  <summary>This function is used to perform following conversions.</summary>
 
 `int to int`
 
@@ -25,7 +28,7 @@ This function is used to perform following conversions.
 `bool to int`
 
 `string to int`
-
+</details>
 ## syntax
 
 ```
@@ -34,7 +37,8 @@ syntax: int([value/variable])
 
 # float() function:
 
-This function is used to perform the following conversiions
+<details>
+  <summary>This function is used to perform the following conversiions/su<mmary>
 
 `1. float to float`
 
@@ -44,6 +48,8 @@ This function is used to perform the following conversiions
 
 `4. string to float`
 
+</details>
+
 ```
 syntax:flaot([value/variable/expression])
 
@@ -51,7 +57,8 @@ syntax:flaot([value/variable/expression])
 
 # complex function:
 
-This function is used to perform the following conversions
+<details>
+  <summary>This function is used to perform the following conversions</summary>
 
 `1.	Complex to complex`
 
@@ -63,6 +70,7 @@ This function is used to perform the following conversions
 
 `5.	String to complex`
 
+</details>
 
 ## syntax
 
@@ -74,7 +82,8 @@ Syntax2: complex(complex)
 
 # bool()
 
-This function is used to perform the following conversions
+<details>
+  <summary>This function is used to perform the following conversions</summary>
 
 `1.	Bool to bool`
 
@@ -86,9 +95,12 @@ This function is used to perform the following conversions
 
 `5.	Str to bool`
 
+</details>
+
 # str()
 
-This function is used to perform the following conversions
+<details>
+  <summary>This function is used to perform the following conversions</summary>
 
 `1.	Str to str`
 
@@ -99,6 +111,8 @@ This function is used to perform the following conversions
 `4.	Complex to str`
 
 `5.	Bool to string`
+
+</details>
 
 ## syntax
 
