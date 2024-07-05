@@ -14,6 +14,7 @@ python defines type conversion functions to directly convert one data type to an
 `4. bool()`
 
 `5. str()`
+
 </details>
 
 # int() function:
@@ -29,6 +30,7 @@ python defines type conversion functions to directly convert one data type to an
 
 `string to int`
 </details>
+
 ## syntax
 
 ```
@@ -38,7 +40,7 @@ syntax: int([value/variable])
 # float() function:
 
 <details>
-  <summary>This function is used to perform the following conversiions/su<mmary>
+  <summary>This function is used to perform the following conversiions</summary>
 
 `1. float to float`
 
@@ -49,6 +51,8 @@ syntax: int([value/variable])
 `4. string to float`
 
 </details>
+
+## syntax
 
 ```
 syntax:flaot([value/variable/expression])
