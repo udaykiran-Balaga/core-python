@@ -9,7 +9,7 @@ Logical operators are used to combine two or more Boolean expressions.
 
   `2. or`
 
-  `3.  Not`
+  `3. Not`
   
 </details>
 
