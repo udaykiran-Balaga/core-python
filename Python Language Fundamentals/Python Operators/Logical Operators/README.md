@@ -29,6 +29,7 @@ Logical operators are used to combine two or more Boolean expressions.
 
 <details>
    <summary> not </summary>
+  
 - "not" is a unary operator and required one operand.
   
 - In applicaton development not operator is used along with other operands
