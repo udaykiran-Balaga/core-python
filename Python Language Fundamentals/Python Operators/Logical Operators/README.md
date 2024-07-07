@@ -24,7 +24,7 @@ Logical operators are used to combine two or more Boolean expressions.
     <summary> or </summary>
   
   - "or" is binary operator it required 2 operands.
-  - 
+    
 </details>
 
 <details>
@@ -32,5 +32,5 @@ Logical operators are used to combine two or more Boolean expressions.
 - "not" is a unary operator and required one operand.
   
 - In applicaton development not operator is used along with other operands
-- 
+
 </details>
