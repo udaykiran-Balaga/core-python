@@ -1,7 +1,7 @@
 # Membership Operator
 
 Membership Operator is a `binary operator` and required 2 operands.
-Membership operator is used with `collection data type`s.
+Membership operator is used with `collection data types`.
 
 "in" keyword represents membership operator.
 This operator returns True, if given value exists in collection of values.
