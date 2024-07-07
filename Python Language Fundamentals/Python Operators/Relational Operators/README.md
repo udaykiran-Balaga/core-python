@@ -27,6 +27,8 @@ Relational Operators are used for comparing values. The expression created using
         <td>!=</td>
         <td>Not equal</td>
       </tr>
-        <tr>==</tr>
-        <tr>Equal</tr>
+        <tr>
+        <td==></td>
+        <td>Equal</td>
+        </tr>
 </table>
