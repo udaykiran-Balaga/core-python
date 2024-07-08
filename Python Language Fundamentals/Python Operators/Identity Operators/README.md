@@ -1,6 +1,7 @@
 # IDENTITY OPERATOR
 
 Identity operator is binary operator and required 2 operands.
+
 Identity operator is used to find 2 variable are pointing to same object in memory.
 
 `1. is`
