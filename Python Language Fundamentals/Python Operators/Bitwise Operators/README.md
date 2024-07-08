@@ -15,9 +15,9 @@ Bitwise operators are used to perform operation on binary data.
 
 **`NOTE`**: Bitwise oeprators are applied only one integer datatype.
 
-<details>
 
-  <summary>Applications of bitwise oeprators</summary>
+
+`Applications of bitwise oeprators`
   
   - Embedded Applications (Logic Gates)
 
@@ -25,5 +25,4 @@ Bitwise operators are used to perform operation on binary data.
 
   - Image processing
 
-</details>
 
