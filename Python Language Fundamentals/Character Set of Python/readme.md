@@ -8,4 +8,3 @@ Character set defines encoding and decoding standards
 - UNICODE
       
 </details>
-<details>
