@@ -15,7 +15,7 @@ Bitwise operators are used to perform operation on binary data.
 
 </details>
 
-**`NOTE`**: Bitwise oeprators are applied only one integer datatype.
+**`NOTE`**: Bitwise operators are applied only one integer datatype.
 
 <details>
   <summary>Applications of bitwise oeprators</summary>
