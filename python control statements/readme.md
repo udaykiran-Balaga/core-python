@@ -6,7 +6,7 @@ These `Control Statements` are classified into 3 categories.
 
 <details>
 
-<summary>1. **Conditional Control Statements**</summary>
+<summary>**1. Conditional Control Statements**</summary>
 
    a. if
 
@@ -16,7 +16,7 @@ These `Control Statements` are classified into 3 categories.
 
 <details>
 
-  <summary>2. **Looping Control statements**</summary>
+  <summary>**2. Looping Control statements**</summary>
 
    a. while
 
@@ -25,7 +25,7 @@ These `Control Statements` are classified into 3 categories.
 </details>
 
 <details>
-<summary>3. **Branching statements**</summary>
+<summary>**3. Branching statements**</summary>
 
    a. Break
 
