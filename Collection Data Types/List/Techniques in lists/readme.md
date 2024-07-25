@@ -3,7 +3,7 @@
 
 content of list can be read in different ways
 
-~ index
+- index
 
 ~ slicing
 
