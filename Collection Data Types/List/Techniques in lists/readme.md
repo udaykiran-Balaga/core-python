@@ -5,10 +5,10 @@ content of list can be read in different ways
 
 - index
 
-~ slicing
+- slicing
 
-~ for loop
+- for loop
 
-~ iterator
+- iterator
 
-~ enumerate
+- enumerate
